@@ -57,7 +57,7 @@ address:
   - line: United Kingdom
 
 # Credits content
-credits: 'Freelancer theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer theme by <a href="http://startbootstrap.com">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown

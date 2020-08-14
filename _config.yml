@@ -70,3 +70,6 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+plugins:
+  - jekyll-seo-tag
